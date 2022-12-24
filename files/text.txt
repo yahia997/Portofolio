@@ -1,0 +1,38 @@
+protofolio design
+
+green: #00ce79
+lite-green: #00e472
+black: #181818
+
+gray-text: #a9a9a9
+white-text: #ffffff
+black-text: #000000
+
+--body: #181818;
+--text: #fff;
+--text-secondary: #a9a9a9;
+--text-alt: #bebebe;
+--content: #1e1e1e;
+--bg-alt: #212121;
+--sidebar: #272727;
+--border: #434343;
+--green: #00e472;
+--green-hover: #03d36b;
+--purple: #ab23ff;
+--input: #303030;
+
+
+font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet">
+
+svg
+
+
+<svg width="274" height="1424" viewBox="0 0 274 1424" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M132.5 0.5V517H52M52 517H222.5C229.667 515.833 244.1 518.9 244.5 540.5C244.9 562.1 244.667 605.833 244.5 625M52 517C44.8333 515.833 30 517 30 540.5V625M244.5 625H30M244.5 625L270 697H137.25M30 625L4.5 697H137.25M137.25 697V980.5V1423.5M111 668L105.5 687.5H128H147.5L142.75 668H111ZM38.5 637.5L30 660H244.5L236.5 637.5H38.5ZM38.5 617.5H236.5V530H38.5V617.5Z" stroke="#00CE79" stroke-width="5"/>
+</svg>
